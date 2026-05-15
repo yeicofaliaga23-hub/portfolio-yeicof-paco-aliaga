@@ -1,7 +1,7 @@
-## 🖼️ Interface do Projeto
+## 🎨 Demonstração Visual do Projeto LuminaQR
 
-Abaixo estão algumas capturas de tela do processo de criação de QR Codes personalizados com o LuminaQR:
+Estas imagens mostram o processo de criação de QR Codes personalizados com o LuminaQR:
 
-![Tela do Lumina AI Stylist](imag3.png)
-![Pré-visualização do QR Code](imag2.png)
-![Editor LuminaQR](ima1.png)
+![Interface do Projeto](imagens/ima1.png)
+![Pré-visualização QR Code](imagens/imag2.png)
+![Editor LuminaQR](imagens/imag3.png)

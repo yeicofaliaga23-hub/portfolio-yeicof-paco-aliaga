@@ -43,24 +43,20 @@ Sou apaixonado por resolver problemas através da tecnologia e tenho foco em **d
 
 ## 📂 Portfólio de Projetos
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional para análise de vieses algorítmicos. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
-| **Engenharia Reversa com IA** | Reconstrução de aplicações a partir da lógica e funcionalidade assistida por IA. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
-| **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase e design personalizado. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
+- **Laboratório de Classificação Visual**  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+  Treinamento de modelo de visão computacional para análise de vieses algorítmicos.  
+  🔗 [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/)
 
----
+- **Engenharia Reversa com IA**  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+  Reconstrução de aplicações a partir da lógica e funcionalidade assistida por IA.  
+  🔗 [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/)
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeicofaliaga23-hub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeicofaliaga23-hub&layout=compact&theme=radical)
-
----
-
-## 🖼️ Demonstração Visual
-![Interface do Projeto](imagens/ima1.png)
-![Pré-visualização QR Code](imagens/imag2.png)
-![Editor LuminaQR](imagens/imag3.png)
+- **Desenvolvimento de MVP+**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  Evolução de protótipo para produto autoral com integração Firebase e design personalizado.  
+  🔗 [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/)
 
 ---
 
